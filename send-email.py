@@ -7,7 +7,7 @@ try:
 
     email       = 'tolgaakalin@yandex.com'
     password    = "aVqHd*H7E"
-    sendTo      = "akalintolga61@gmail.com"
+    sendTo      = "beyzadalgatc@gmail.com"
 
     mail        =SMTP("smtp.yandex.com",587)
     mail.ehlo()
