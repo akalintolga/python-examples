@@ -1,12 +1,13 @@
 from smtplib import SMTP
 
+
 try:
     subject     = "Test Python"
-    message     = "python ile gönderildi"
+    message     = "seni çok seviyorum hihiih"
     content     = "Subject: {0}\n\n{1}".format(subject,message)
 
     email       = 'tolgaakalin@yandex.com'
-    password    = "aVqHd*H7E"
+    password    = "919281089230182093801923010298310928301"
     sendTo      = "beyzadalgatc@gmail.com"
 
     mail        =SMTP("smtp.yandex.com",587)
